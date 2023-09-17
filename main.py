@@ -4,8 +4,6 @@ import jieba
 # from line_profiler import LineProfiler
 from memory_profiler import profile
 from simhash import Simhash
-
-
 # 空间性能测试
 @profile
 # jieba分词，把标点符号、转义符号等特殊符号过滤掉,只保留数字，大小写字母以及中文
@@ -17,9 +15,9 @@ def filter(str):
     return text
 
 
-@profile
 # 读取文件内容
 def get_file_contents(path):
+
     str = ''
     f = open(path, 'r', encoding='UTF-8')
     line = f.readline()
@@ -28,7 +26,6 @@ def get_file_contents(path):
         line = f.readline()
     f.close()
     return str
-
 
 @profile
 def main(original, copy, result):
@@ -56,7 +53,7 @@ if __name__ == '__main__':
     path1 = input("输入论文原文的文件的绝对路径：")
     path2 = input("输入抄袭版论文的文件的绝对路径：")
     path3 = input("输入输出文件的绝对路径：")
-    '''
+
     if not os.path.exists(path1):
         print("论文原文文件不存在！")
         exit()
@@ -66,7 +63,7 @@ if __name__ == '__main__':
     if not os.path.exists(path3):
         print("输出文件不存在！")
         exit()
-    '''
+
     main(path1, path2, path3)
     '''
     # 时间性能测试
