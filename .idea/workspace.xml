@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6c0bba9d-4471-489b-8a7d-e431bf3426b4" name="Changes" comment="" />
+    <list default="true" id="36cb685e-2cc2-48c3-95fc-d66597b21033" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,16 +17,7 @@
       </list>
     </option>
   </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="MarkdownSettingsMigration">
-    <option name="stateVersion" value="1" />
-  </component>
-  <component name="ProblemsViewState">
-    <option name="selectedTabId" value="CurrentFile" />
-  </component>
-  <component name="ProjectId" id="2VSothmUm2TkMkni14AiMx5D1Gk" />
+  <component name="ProjectId" id="2Vo4IN2N8obM7A7IXbUMfjPd3Tq" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -36,38 +27,74 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Python/PYthonProject/project001/venv/Lib/site-packages/memory_profiler.py&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Python/PYthonProject/pythonProject/结对项目&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="PyConsoleOptionsProvider">
-    <option name="myPythonConsoleState">
-      <console-settings module-name="project001" is-module-sdk="true">
-        <option name="myUseModuleSdk" value="true" />
-        <option name="myModuleName" value="project001" />
-      </console-settings>
-    </option>
-  </component>
-  <component name="RunManager" selected="Python.main">
-    <configuration name="main (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="project001" />
+  <component name="RunManager" selected="Python.Checktest">
+    <configuration name="Checktest" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/3121004704" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3121004704/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Checktest.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="funtions" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../../LeStoreDownload/WeChat Files/wxid_90wdgpb9g9vc22/FileStorage/File/2023-09" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../../LeStoreDownload/WeChat Files/wxid_90wdgpb9g9vc22/FileStorage/File/2023-09/funtions.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main-2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../../LeStoreDownload/WeChat Files/wxid_90wdgpb9g9vc22/FileStorage/File/2023-09" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../../LeStoreDownload/WeChat Files/wxid_90wdgpb9g9vc22/FileStorage/File/2023-09/main-2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -77,7 +104,7 @@
       <method v="2" />
     </configuration>
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
-      <module name="project001" />
+      <module name="pythonProject" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -98,140 +125,80 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test_get_file (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="project001" />
+    <configuration name="sizeyunsuan2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$USER_HOME$/AppData/Local/Temp/Rar$DIa58304.19461" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../../LeStoreDownload/WeChat Files/wxid_90wdgpb9g9vc22/FileStorage/File/2023-09" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$USER_HOME$/AppData/Local/Temp/Rar$DIa58304.19461/test_get_file.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../../LeStoreDownload/WeChat Files/wxid_90wdgpb9g9vc22/FileStorage/File/2023-09/sizeyunsuan2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
       <option name="REDIRECT_INPUT" value="false" />
       <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="test_get_file (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="project001" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$USER_HOME$/AppData/Local/Temp/Rar$DIa58304.19287" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$USER_HOME$/AppData/Local/Temp/Rar$DIa58304.19287/test_get_file.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Python tests in filter_test.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
-      <module name="project001" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/3121004704" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/3121004704/filter_test.py&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Python tests in get_file_test.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
-      <module name="project001" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/3121004704" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/3121004704/get_file_test.py&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.main (2)" />
-        <item itemvalue="Python tests.Python tests in get_file_test.py" />
-        <item itemvalue="Python.test_get_file (2)" />
-        <item itemvalue="Python.test_get_file (1)" />
-        <item itemvalue="Python tests.Python tests in filter_test.py" />
+        <item itemvalue="Python.Checktest" />
+        <item itemvalue="Python.main-2" />
+        <item itemvalue="Python.funtions" />
+        <item itemvalue="Python.sizeyunsuan2" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="6c0bba9d-4471-489b-8a7d-e431bf3426b4" name="Changes" comment="" />
-      <created>1694839058920</created>
+      <changelist id="36cb685e-2cc2-48c3-95fc-d66597b21033" name="Changes" comment="" />
+      <created>1695489018333</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1694839058920</updated>
-      <workItem from="1694839062552" duration="2747000" />
-      <workItem from="1694848970711" duration="7049000" />
-      <workItem from="1694856400198" duration="815000" />
-      <workItem from="1694857456070" duration="6350000" />
-      <workItem from="1694865977423" duration="4279000" />
-      <workItem from="1694870363149" duration="2253000" />
-      <workItem from="1694875355424" duration="399000" />
-      <workItem from="1694875765999" duration="661000" />
-      <workItem from="1694876448247" duration="1108000" />
-      <workItem from="1694925637238" duration="836000" />
-      <workItem from="1694926489365" duration="3000" />
-      <workItem from="1694926635123" duration="3352000" />
-      <workItem from="1694935313488" duration="4132000" />
-      <workItem from="1694939508400" duration="702000" />
-      <workItem from="1694940241814" duration="1828000" />
-      <workItem from="1694942104037" duration="2366000" />
-      <workItem from="1694945266038" duration="918000" />
+      <updated>1695489018333</updated>
+      <workItem from="1695489021294" duration="620000" />
+      <workItem from="1695626400054" duration="97000" />
+      <workItem from="1695626553143" duration="2000" />
+      <workItem from="1695626720464" duration="84000" />
+      <workItem from="1695626843389" duration="3000" />
+      <workItem from="1695626858623" duration="246000" />
+      <workItem from="1695627666999" duration="185000" />
+      <workItem from="1695627933533" duration="14000" />
+      <workItem from="1695628168163" duration="5147000" />
+      <workItem from="1695634341674" duration="5153000" />
+      <workItem from="1695647896492" duration="12000" />
+      <workItem from="1695723737895" duration="1049000" />
+      <workItem from="1695724901026" duration="119000" />
+      <workItem from="1695725065622" duration="40000" />
+      <workItem from="1695725159360" duration="71000" />
+      <workItem from="1695725267355" duration="277000" />
+      <workItem from="1695725571456" duration="540000" />
+      <workItem from="1695727131479" duration="727000" />
+      <workItem from="1695728288317" duration="6033000" />
+      <workItem from="1695735892196" duration="1204000" />
+      <workItem from="1695872776560" duration="1302000" />
+      <workItem from="1695875612818" duration="1674000" />
+      <workItem from="1695897142460" duration="139000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$USER_HOME$/AppData/Local/Temp/Rar$DIa59488.32091/main.py</url>
-          <line>16</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
-  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/project001$main__2_.coverage" NAME="main (2) Coverage Results" MODIFIED="1694943938003" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3121004704" />
-    <SUITE FILE_PATH="coverage/main_py$main.coverage" NAME="main Coverage Results" MODIFIED="1694869433670" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/main_py$main__1_.coverage" NAME="main (1) Coverage Results" MODIFIED="1694865528259" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/AppData/Local/Temp/Rar$DIa66088.46466" />
-    <SUITE FILE_PATH="coverage/project001$.coverage" NAME=" Coverage Results" MODIFIED="1694941917924" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3121004704" />
-    <SUITE FILE_PATH="coverage/project001$main.coverage" NAME="main Coverage Results" MODIFIED="1694945275870" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/project001$test_get_file__2_.coverage" NAME="test_get_file (2) Coverage Results" MODIFIED="1694941868748" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/AppData/Local/Temp/Rar$DIa58304.19287" />
-    <SUITE FILE_PATH="coverage/project001$test_get_file.coverage" NAME="test_get_file Coverage Results" MODIFIED="1694938562097" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/AppData/Local/Temp/Rar$DIa58304.47979" />
-    <SUITE FILE_PATH="coverage/main_py$main__2_.coverage" NAME="main (2) Coverage Results" MODIFIED="1694875585546" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3121004704" />
+    <SUITE FILE_PATH="coverage/pythonProject$sizeyunsuan2.coverage" NAME="sizeyunsuan2 Coverage Results" MODIFIED="1695629684448" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../../LeStoreDownload/WeChat Files/wxid_90wdgpb9g9vc22/FileStorage/File/2023-09" />
+    <SUITE FILE_PATH="coverage/pythonProject$main_2.coverage" NAME="main-2 Coverage Results" MODIFIED="1695634053178" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../../LeStoreDownload/WeChat Files/wxid_90wdgpb9g9vc22/FileStorage/File/2023-09" />
+    <SUITE FILE_PATH="coverage/main_py$Checktest.coverage" NAME="Checktest Coverage Results" MODIFIED="1695737053957" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject$main.coverage" NAME="main Coverage Results" MODIFIED="1695633841554" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/main_py$main.coverage" NAME="main Coverage Results" MODIFIED="1695733296370" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject$funtions.coverage" NAME="funtions Coverage Results" MODIFIED="1695631402203" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../../LeStoreDownload/WeChat Files/wxid_90wdgpb9g9vc22/FileStorage/File/2023-09" />
   </component>
 </project>

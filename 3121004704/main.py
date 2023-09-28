@@ -56,7 +56,6 @@ if __name__ == '__main__':
     path1 = input("输入论文原文的文件的绝对路径：")
     path2 = input("输入抄袭版论文的文件的绝对路径：")
     path3 = input("输入输出文件的绝对路径：")
-    '''
     if not os.path.exists(path1):
         print("论文原文文件不存在！")
         exit()
@@ -66,7 +65,7 @@ if __name__ == '__main__':
     if not os.path.exists(path3):
         print("输出文件不存在！")
         exit()
-    '''
+
     main(path1, path2, path3)
     '''
     # 时间性能测试
