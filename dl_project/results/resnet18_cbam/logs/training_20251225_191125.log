@@ -1,0 +1,212 @@
+2025-12-25 19:11:28,030 - INFO - 训练器初始化完成
+2025-12-25 19:11:28,031 - INFO - 优化器: SGD, 学习率: 0.1
+2025-12-25 19:11:28,031 - INFO - 调度器: CosineAnnealingLR
+2025-12-25 19:11:28,031 - INFO - 开始训练，共150个epoch
+2025-12-25 19:11:37,567 - INFO - 保存最佳模型，准确率: 55.51%
+2025-12-25 19:11:37,567 - INFO - Epoch 1/150 | Train Loss: 1.5212 | Train Acc: 44.24% | Test Loss: 1.2998 | Test Acc: 55.51% | F1 Score: 0.5382 | Time: 9.5s
+2025-12-25 19:11:46,348 - INFO - 保存最佳模型，准确率: 65.31%
+2025-12-25 19:11:46,349 - INFO - Epoch 2/150 | Train Loss: 0.9514 | Train Acc: 66.07% | Test Loss: 1.0350 | Test Acc: 65.31% | F1 Score: 0.6465 | Time: 8.8s
+2025-12-25 19:11:55,195 - INFO - 保存最佳模型，准确率: 70.07%
+2025-12-25 19:11:55,195 - INFO - Epoch 3/150 | Train Loss: 0.7404 | Train Acc: 74.23% | Test Loss: 0.8933 | Test Acc: 70.07% | F1 Score: 0.6968 | Time: 8.8s
+2025-12-25 19:12:03,925 - INFO - 保存最佳模型，准确率: 76.13%
+2025-12-25 19:12:03,925 - INFO - Epoch 4/150 | Train Loss: 0.6354 | Train Acc: 77.98% | Test Loss: 0.7049 | Test Acc: 76.13% | F1 Score: 0.7562 | Time: 8.7s
+2025-12-25 19:12:12,508 - INFO - Epoch 5/150 | Train Loss: 0.5751 | Train Acc: 80.23% | Test Loss: 0.7821 | Test Acc: 74.42% | F1 Score: 0.7435 | Time: 8.6s
+2025-12-25 19:12:21,235 - INFO - Epoch 6/150 | Train Loss: 0.5394 | Train Acc: 81.43% | Test Loss: 0.7384 | Test Acc: 75.90% | F1 Score: 0.7546 | Time: 8.7s
+2025-12-25 19:12:30,269 - INFO - 保存最佳模型，准确率: 80.38%
+2025-12-25 19:12:30,269 - INFO - Epoch 7/150 | Train Loss: 0.5098 | Train Acc: 82.46% | Test Loss: 0.5689 | Test Acc: 80.38% | F1 Score: 0.8038 | Time: 9.0s
+2025-12-25 19:12:39,110 - INFO - Epoch 8/150 | Train Loss: 0.4878 | Train Acc: 83.18% | Test Loss: 0.6867 | Test Acc: 76.75% | F1 Score: 0.7689 | Time: 8.8s
+2025-12-25 19:12:47,985 - INFO - 保存最佳模型，准确率: 80.95%
+2025-12-25 19:12:47,986 - INFO - Epoch 9/150 | Train Loss: 0.4775 | Train Acc: 83.46% | Test Loss: 0.5750 | Test Acc: 80.95% | F1 Score: 0.8109 | Time: 8.9s
+2025-12-25 19:12:56,889 - INFO - Epoch 10/150 | Train Loss: 0.4590 | Train Acc: 84.21% | Test Loss: 0.7161 | Test Acc: 76.97% | F1 Score: 0.7662 | Time: 8.9s
+2025-12-25 19:13:05,570 - INFO - Epoch 11/150 | Train Loss: 0.4477 | Train Acc: 84.65% | Test Loss: 0.5728 | Test Acc: 80.42% | F1 Score: 0.8050 | Time: 8.7s
+2025-12-25 19:13:14,347 - INFO - 保存最佳模型，准确率: 82.81%
+2025-12-25 19:13:14,347 - INFO - Epoch 12/150 | Train Loss: 0.4334 | Train Acc: 85.05% | Test Loss: 0.5180 | Test Acc: 82.81% | F1 Score: 0.8261 | Time: 8.8s
+2025-12-25 19:13:23,331 - INFO - Epoch 13/150 | Train Loss: 0.4230 | Train Acc: 85.38% | Test Loss: 0.5646 | Test Acc: 81.56% | F1 Score: 0.8152 | Time: 9.0s
+2025-12-25 19:13:32,123 - INFO - Epoch 14/150 | Train Loss: 0.4139 | Train Acc: 85.95% | Test Loss: 0.5278 | Test Acc: 82.19% | F1 Score: 0.8194 | Time: 8.8s
+2025-12-25 19:13:40,785 - INFO - Epoch 15/150 | Train Loss: 0.4051 | Train Acc: 86.09% | Test Loss: 0.6480 | Test Acc: 79.57% | F1 Score: 0.7995 | Time: 8.7s
+2025-12-25 19:13:49,440 - INFO - Epoch 16/150 | Train Loss: 0.3973 | Train Acc: 86.37% | Test Loss: 0.5651 | Test Acc: 82.18% | F1 Score: 0.8179 | Time: 8.7s
+2025-12-25 19:13:58,843 - INFO - 保存最佳模型，准确率: 84.17%
+2025-12-25 19:13:58,843 - INFO - Epoch 17/150 | Train Loss: 0.3932 | Train Acc: 86.49% | Test Loss: 0.4699 | Test Acc: 84.17% | F1 Score: 0.8421 | Time: 9.4s
+2025-12-25 19:14:07,482 - INFO - Epoch 18/150 | Train Loss: 0.3842 | Train Acc: 86.84% | Test Loss: 0.6491 | Test Acc: 78.48% | F1 Score: 0.7951 | Time: 8.6s
+2025-12-25 19:14:16,233 - INFO - Epoch 19/150 | Train Loss: 0.3781 | Train Acc: 87.12% | Test Loss: 0.5171 | Test Acc: 82.66% | F1 Score: 0.8328 | Time: 8.8s
+2025-12-25 19:14:24,967 - INFO - Epoch 20/150 | Train Loss: 0.3712 | Train Acc: 87.39% | Test Loss: 0.6197 | Test Acc: 80.56% | F1 Score: 0.8015 | Time: 8.7s
+2025-12-25 19:14:33,742 - INFO - Epoch 21/150 | Train Loss: 0.3666 | Train Acc: 87.55% | Test Loss: 0.5621 | Test Acc: 82.41% | F1 Score: 0.8259 | Time: 8.8s
+2025-12-25 19:14:42,494 - INFO - Epoch 22/150 | Train Loss: 0.3623 | Train Acc: 87.62% | Test Loss: 0.7271 | Test Acc: 77.46% | F1 Score: 0.7757 | Time: 8.8s
+2025-12-25 19:14:51,529 - INFO - Epoch 23/150 | Train Loss: 0.3612 | Train Acc: 87.78% | Test Loss: 0.5453 | Test Acc: 82.00% | F1 Score: 0.8186 | Time: 9.0s
+2025-12-25 19:15:00,155 - INFO - 保存最佳模型，准确率: 84.69%
+2025-12-25 19:15:00,155 - INFO - Epoch 24/150 | Train Loss: 0.3567 | Train Acc: 87.68% | Test Loss: 0.4496 | Test Acc: 84.69% | F1 Score: 0.8480 | Time: 8.6s
+2025-12-25 19:15:09,060 - INFO - 保存最佳模型，准确率: 84.89%
+2025-12-25 19:15:09,060 - INFO - Epoch 25/150 | Train Loss: 0.3495 | Train Acc: 88.23% | Test Loss: 0.4590 | Test Acc: 84.89% | F1 Score: 0.8497 | Time: 8.9s
+2025-12-25 19:15:17,947 - INFO - 保存最佳模型，准确率: 85.14%
+2025-12-25 19:15:17,948 - INFO - Epoch 26/150 | Train Loss: 0.3515 | Train Acc: 87.77% | Test Loss: 0.4310 | Test Acc: 85.14% | F1 Score: 0.8524 | Time: 8.9s
+2025-12-25 19:15:25,882 - INFO - Epoch 27/150 | Train Loss: 0.3412 | Train Acc: 88.20% | Test Loss: 0.5009 | Test Acc: 83.85% | F1 Score: 0.8389 | Time: 7.9s
+2025-12-25 19:15:34,495 - INFO - Epoch 28/150 | Train Loss: 0.3337 | Train Acc: 88.44% | Test Loss: 0.4595 | Test Acc: 84.59% | F1 Score: 0.8453 | Time: 8.6s
+2025-12-25 19:15:43,164 - INFO - Epoch 29/150 | Train Loss: 0.3370 | Train Acc: 88.50% | Test Loss: 0.5523 | Test Acc: 82.21% | F1 Score: 0.8225 | Time: 8.7s
+2025-12-25 19:15:51,673 - INFO - Epoch 30/150 | Train Loss: 0.3311 | Train Acc: 88.69% | Test Loss: 0.4966 | Test Acc: 83.70% | F1 Score: 0.8351 | Time: 8.5s
+2025-12-25 19:16:00,191 - INFO - Epoch 31/150 | Train Loss: 0.3334 | Train Acc: 88.51% | Test Loss: 0.5196 | Test Acc: 83.20% | F1 Score: 0.8289 | Time: 8.5s
+2025-12-25 19:16:09,119 - INFO - Epoch 32/150 | Train Loss: 0.3274 | Train Acc: 88.74% | Test Loss: 0.5576 | Test Acc: 81.75% | F1 Score: 0.8150 | Time: 8.9s
+2025-12-25 19:16:17,781 - INFO - 保存最佳模型，准确率: 86.65%
+2025-12-25 19:16:17,782 - INFO - Epoch 33/150 | Train Loss: 0.3217 | Train Acc: 88.94% | Test Loss: 0.4132 | Test Acc: 86.65% | F1 Score: 0.8661 | Time: 8.7s
+2025-12-25 19:16:26,277 - INFO - Epoch 34/150 | Train Loss: 0.3216 | Train Acc: 88.92% | Test Loss: 0.4801 | Test Acc: 84.48% | F1 Score: 0.8466 | Time: 8.5s
+2025-12-25 19:16:34,755 - INFO - Epoch 35/150 | Train Loss: 0.3153 | Train Acc: 89.29% | Test Loss: 0.5518 | Test Acc: 82.29% | F1 Score: 0.8285 | Time: 8.5s
+2025-12-25 19:16:42,641 - INFO - Epoch 36/150 | Train Loss: 0.3191 | Train Acc: 88.99% | Test Loss: 0.5289 | Test Acc: 82.98% | F1 Score: 0.8278 | Time: 7.9s
+2025-12-25 19:16:50,993 - INFO - Epoch 37/150 | Train Loss: 0.3142 | Train Acc: 89.36% | Test Loss: 0.6227 | Test Acc: 81.18% | F1 Score: 0.8159 | Time: 8.4s
+2025-12-25 19:16:59,705 - INFO - 保存最佳模型，准确率: 86.89%
+2025-12-25 19:16:59,705 - INFO - Epoch 38/150 | Train Loss: 0.3074 | Train Acc: 89.63% | Test Loss: 0.4029 | Test Acc: 86.89% | F1 Score: 0.8689 | Time: 8.7s
+2025-12-25 19:17:08,459 - INFO - Epoch 39/150 | Train Loss: 0.3100 | Train Acc: 89.40% | Test Loss: 0.4305 | Test Acc: 85.22% | F1 Score: 0.8518 | Time: 8.8s
+2025-12-25 19:17:17,227 - INFO - Epoch 40/150 | Train Loss: 0.3019 | Train Acc: 89.58% | Test Loss: 0.4968 | Test Acc: 84.38% | F1 Score: 0.8384 | Time: 8.8s
+2025-12-25 19:17:26,161 - INFO - Epoch 41/150 | Train Loss: 0.2989 | Train Acc: 89.90% | Test Loss: 0.4133 | Test Acc: 85.88% | F1 Score: 0.8606 | Time: 8.9s
+2025-12-25 19:17:34,824 - INFO - Epoch 42/150 | Train Loss: 0.3052 | Train Acc: 89.57% | Test Loss: 0.4799 | Test Acc: 84.54% | F1 Score: 0.8447 | Time: 8.7s
+2025-12-25 19:17:43,218 - INFO - Epoch 43/150 | Train Loss: 0.2970 | Train Acc: 89.79% | Test Loss: 0.5219 | Test Acc: 82.73% | F1 Score: 0.8271 | Time: 8.4s
+2025-12-25 19:17:51,932 - INFO - Epoch 44/150 | Train Loss: 0.2977 | Train Acc: 89.80% | Test Loss: 0.5199 | Test Acc: 82.88% | F1 Score: 0.8317 | Time: 8.7s
+2025-12-25 19:17:59,947 - INFO - Epoch 45/150 | Train Loss: 0.2901 | Train Acc: 90.11% | Test Loss: 0.4180 | Test Acc: 86.02% | F1 Score: 0.8602 | Time: 8.0s
+2025-12-25 19:18:08,577 - INFO - Epoch 46/150 | Train Loss: 0.2921 | Train Acc: 89.87% | Test Loss: 0.4274 | Test Acc: 85.84% | F1 Score: 0.8556 | Time: 8.6s
+2025-12-25 19:18:17,587 - INFO - Epoch 47/150 | Train Loss: 0.2879 | Train Acc: 90.26% | Test Loss: 0.6936 | Test Acc: 78.68% | F1 Score: 0.7860 | Time: 9.0s
+2025-12-25 19:18:26,196 - INFO - 保存最佳模型，准确率: 87.00%
+2025-12-25 19:18:26,196 - INFO - Epoch 48/150 | Train Loss: 0.2843 | Train Acc: 90.29% | Test Loss: 0.4047 | Test Acc: 87.00% | F1 Score: 0.8709 | Time: 8.6s
+2025-12-25 19:18:34,830 - INFO - Epoch 49/150 | Train Loss: 0.2785 | Train Acc: 90.36% | Test Loss: 0.3957 | Test Acc: 86.92% | F1 Score: 0.8680 | Time: 8.6s
+2025-12-25 19:18:43,467 - INFO - Epoch 50/150 | Train Loss: 0.2796 | Train Acc: 90.45% | Test Loss: 0.5127 | Test Acc: 83.63% | F1 Score: 0.8336 | Time: 8.6s
+2025-12-25 19:18:52,452 - INFO - 保存最佳模型，准确率: 87.17%
+2025-12-25 19:18:52,452 - INFO - Epoch 51/150 | Train Loss: 0.2733 | Train Acc: 90.66% | Test Loss: 0.3795 | Test Acc: 87.17% | F1 Score: 0.8728 | Time: 9.0s
+2025-12-25 19:19:01,341 - INFO - Epoch 52/150 | Train Loss: 0.2770 | Train Acc: 90.52% | Test Loss: 0.4243 | Test Acc: 86.05% | F1 Score: 0.8606 | Time: 8.9s
+2025-12-25 19:19:09,576 - INFO - Epoch 53/150 | Train Loss: 0.2720 | Train Acc: 90.56% | Test Loss: 0.4532 | Test Acc: 85.46% | F1 Score: 0.8556 | Time: 8.2s
+2025-12-25 19:19:18,223 - INFO - 保存最佳模型，准确率: 87.29%
+2025-12-25 19:19:18,223 - INFO - Epoch 54/150 | Train Loss: 0.2697 | Train Acc: 90.79% | Test Loss: 0.3861 | Test Acc: 87.29% | F1 Score: 0.8721 | Time: 8.6s
+2025-12-25 19:19:26,954 - INFO - Epoch 55/150 | Train Loss: 0.2656 | Train Acc: 90.90% | Test Loss: 0.4220 | Test Acc: 86.57% | F1 Score: 0.8644 | Time: 8.7s
+2025-12-25 19:19:35,695 - INFO - 保存最佳模型，准确率: 87.74%
+2025-12-25 19:19:35,695 - INFO - Epoch 56/150 | Train Loss: 0.2600 | Train Acc: 91.12% | Test Loss: 0.3757 | Test Acc: 87.74% | F1 Score: 0.8777 | Time: 8.7s
+2025-12-25 19:19:43,900 - INFO - 保存最佳模型，准确率: 88.16%
+2025-12-25 19:19:43,900 - INFO - Epoch 57/150 | Train Loss: 0.2599 | Train Acc: 91.08% | Test Loss: 0.3604 | Test Acc: 88.16% | F1 Score: 0.8810 | Time: 8.2s
+2025-12-25 19:19:52,638 - INFO - Epoch 58/150 | Train Loss: 0.2540 | Train Acc: 91.34% | Test Loss: 0.4014 | Test Acc: 86.72% | F1 Score: 0.8658 | Time: 8.7s
+2025-12-25 19:20:01,226 - INFO - Epoch 59/150 | Train Loss: 0.2521 | Train Acc: 91.33% | Test Loss: 0.4210 | Test Acc: 86.00% | F1 Score: 0.8618 | Time: 8.6s
+2025-12-25 19:20:09,952 - INFO - 保存最佳模型，准确率: 88.62%
+2025-12-25 19:20:09,993 - INFO - Epoch 60/150 | Train Loss: 0.2517 | Train Acc: 91.41% | Test Loss: 0.3393 | Test Acc: 88.62% | F1 Score: 0.8862 | Time: 8.8s
+2025-12-25 19:20:18,556 - INFO - Epoch 61/150 | Train Loss: 0.2477 | Train Acc: 91.45% | Test Loss: 0.3656 | Test Acc: 88.11% | F1 Score: 0.8808 | Time: 8.6s
+2025-12-25 19:20:27,568 - INFO - 保存最佳模型，准确率: 88.73%
+2025-12-25 19:20:27,568 - INFO - Epoch 62/150 | Train Loss: 0.2465 | Train Acc: 91.53% | Test Loss: 0.3419 | Test Acc: 88.73% | F1 Score: 0.8875 | Time: 9.0s
+2025-12-25 19:20:36,076 - INFO - 保存最佳模型，准确率: 89.25%
+2025-12-25 19:20:36,076 - INFO - Epoch 63/150 | Train Loss: 0.2408 | Train Acc: 91.58% | Test Loss: 0.3304 | Test Acc: 89.25% | F1 Score: 0.8927 | Time: 8.5s
+2025-12-25 19:20:44,621 - INFO - Epoch 64/150 | Train Loss: 0.2368 | Train Acc: 91.93% | Test Loss: 0.5292 | Test Acc: 83.36% | F1 Score: 0.8346 | Time: 8.5s
+2025-12-25 19:20:53,158 - INFO - Epoch 65/150 | Train Loss: 0.2377 | Train Acc: 91.85% | Test Loss: 0.3535 | Test Acc: 87.87% | F1 Score: 0.8785 | Time: 8.5s
+2025-12-25 19:21:01,805 - INFO - Epoch 66/150 | Train Loss: 0.2341 | Train Acc: 91.91% | Test Loss: 0.3663 | Test Acc: 87.90% | F1 Score: 0.8794 | Time: 8.6s
+2025-12-25 19:21:10,440 - INFO - Epoch 67/150 | Train Loss: 0.2296 | Train Acc: 91.98% | Test Loss: 0.3530 | Test Acc: 88.19% | F1 Score: 0.8816 | Time: 8.6s
+2025-12-25 19:21:19,059 - INFO - Epoch 68/150 | Train Loss: 0.2233 | Train Acc: 92.24% | Test Loss: 0.4464 | Test Acc: 85.78% | F1 Score: 0.8585 | Time: 8.6s
+2025-12-25 19:21:27,824 - INFO - Epoch 69/150 | Train Loss: 0.2254 | Train Acc: 92.17% | Test Loss: 0.3345 | Test Acc: 88.83% | F1 Score: 0.8889 | Time: 8.8s
+2025-12-25 19:21:36,628 - INFO - Epoch 70/150 | Train Loss: 0.2224 | Train Acc: 92.35% | Test Loss: 0.3683 | Test Acc: 87.75% | F1 Score: 0.8807 | Time: 8.8s
+2025-12-25 19:21:45,291 - INFO - Epoch 71/150 | Train Loss: 0.2177 | Train Acc: 92.60% | Test Loss: 0.3728 | Test Acc: 87.74% | F1 Score: 0.8781 | Time: 8.7s
+2025-12-25 19:21:53,962 - INFO - Epoch 72/150 | Train Loss: 0.2130 | Train Acc: 92.76% | Test Loss: 0.3737 | Test Acc: 87.99% | F1 Score: 0.8826 | Time: 8.7s
+2025-12-25 19:22:02,780 - INFO - Epoch 73/150 | Train Loss: 0.2157 | Train Acc: 92.62% | Test Loss: 0.3665 | Test Acc: 88.39% | F1 Score: 0.8831 | Time: 8.8s
+2025-12-25 19:22:11,480 - INFO - Epoch 74/150 | Train Loss: 0.2083 | Train Acc: 92.84% | Test Loss: 0.4321 | Test Acc: 86.05% | F1 Score: 0.8592 | Time: 8.7s
+2025-12-25 19:22:20,264 - INFO - Epoch 75/150 | Train Loss: 0.2070 | Train Acc: 92.82% | Test Loss: 0.3898 | Test Acc: 87.17% | F1 Score: 0.8742 | Time: 8.8s
+2025-12-25 19:22:28,941 - INFO - Epoch 76/150 | Train Loss: 0.2013 | Train Acc: 93.09% | Test Loss: 0.3742 | Test Acc: 87.61% | F1 Score: 0.8763 | Time: 8.7s
+2025-12-25 19:22:37,654 - INFO - Epoch 77/150 | Train Loss: 0.1959 | Train Acc: 93.18% | Test Loss: 0.3409 | Test Acc: 88.55% | F1 Score: 0.8860 | Time: 8.7s
+2025-12-25 19:22:46,337 - INFO - Epoch 78/150 | Train Loss: 0.1933 | Train Acc: 93.36% | Test Loss: 0.3854 | Test Acc: 87.51% | F1 Score: 0.8758 | Time: 8.7s
+2025-12-25 19:22:55,122 - INFO - Epoch 79/150 | Train Loss: 0.1896 | Train Acc: 93.50% | Test Loss: 0.3311 | Test Acc: 88.90% | F1 Score: 0.8898 | Time: 8.8s
+2025-12-25 19:23:04,306 - INFO - Epoch 80/150 | Train Loss: 0.1889 | Train Acc: 93.49% | Test Loss: 0.4309 | Test Acc: 86.54% | F1 Score: 0.8667 | Time: 9.2s
+2025-12-25 19:23:13,075 - INFO - 保存最佳模型，准确率: 90.31%
+2025-12-25 19:23:13,075 - INFO - Epoch 81/150 | Train Loss: 0.1814 | Train Acc: 93.66% | Test Loss: 0.3034 | Test Acc: 90.31% | F1 Score: 0.9027 | Time: 8.8s
+2025-12-25 19:23:21,819 - INFO - Epoch 82/150 | Train Loss: 0.1805 | Train Acc: 93.76% | Test Loss: 0.3299 | Test Acc: 89.04% | F1 Score: 0.8906 | Time: 8.7s
+2025-12-25 19:23:30,555 - INFO - Epoch 83/150 | Train Loss: 0.1767 | Train Acc: 93.96% | Test Loss: 0.3564 | Test Acc: 88.62% | F1 Score: 0.8858 | Time: 8.7s
+2025-12-25 19:23:39,461 - INFO - 保存最佳模型，准确率: 91.07%
+2025-12-25 19:23:39,462 - INFO - Epoch 84/150 | Train Loss: 0.1751 | Train Acc: 93.93% | Test Loss: 0.2780 | Test Acc: 91.07% | F1 Score: 0.9102 | Time: 8.9s
+2025-12-25 19:23:48,171 - INFO - Epoch 85/150 | Train Loss: 0.1676 | Train Acc: 94.27% | Test Loss: 0.3393 | Test Acc: 89.28% | F1 Score: 0.8935 | Time: 8.7s
+2025-12-25 19:23:56,798 - INFO - Epoch 86/150 | Train Loss: 0.1675 | Train Acc: 94.27% | Test Loss: 0.3138 | Test Acc: 89.88% | F1 Score: 0.8984 | Time: 8.6s
+2025-12-25 19:24:05,431 - INFO - Epoch 87/150 | Train Loss: 0.1635 | Train Acc: 94.34% | Test Loss: 0.3058 | Test Acc: 90.25% | F1 Score: 0.9022 | Time: 8.6s
+2025-12-25 19:24:14,188 - INFO - Epoch 88/150 | Train Loss: 0.1578 | Train Acc: 94.57% | Test Loss: 0.3066 | Test Acc: 90.12% | F1 Score: 0.9003 | Time: 8.8s
+2025-12-25 19:24:23,573 - INFO - Epoch 89/150 | Train Loss: 0.1543 | Train Acc: 94.73% | Test Loss: 0.3494 | Test Acc: 89.09% | F1 Score: 0.8895 | Time: 9.4s
+2025-12-25 19:24:32,141 - INFO - Epoch 90/150 | Train Loss: 0.1524 | Train Acc: 94.86% | Test Loss: 0.2890 | Test Acc: 90.68% | F1 Score: 0.9074 | Time: 8.6s
+2025-12-25 19:24:40,729 - INFO - Epoch 91/150 | Train Loss: 0.1469 | Train Acc: 94.97% | Test Loss: 0.3138 | Test Acc: 89.87% | F1 Score: 0.8989 | Time: 8.6s
+2025-12-25 19:24:48,909 - INFO - Epoch 92/150 | Train Loss: 0.1429 | Train Acc: 95.02% | Test Loss: 0.3588 | Test Acc: 88.85% | F1 Score: 0.8889 | Time: 8.2s
+2025-12-25 19:24:57,662 - INFO - Epoch 93/150 | Train Loss: 0.1368 | Train Acc: 95.23% | Test Loss: 0.3463 | Test Acc: 89.24% | F1 Score: 0.8938 | Time: 8.8s
+2025-12-25 19:25:06,430 - INFO - Epoch 94/150 | Train Loss: 0.1336 | Train Acc: 95.37% | Test Loss: 0.3172 | Test Acc: 90.12% | F1 Score: 0.9024 | Time: 8.8s
+2025-12-25 19:25:15,065 - INFO - Epoch 95/150 | Train Loss: 0.1275 | Train Acc: 95.62% | Test Loss: 0.3247 | Test Acc: 89.77% | F1 Score: 0.8978 | Time: 8.6s
+2025-12-25 19:25:23,671 - INFO - Epoch 96/150 | Train Loss: 0.1258 | Train Acc: 95.76% | Test Loss: 0.2946 | Test Acc: 90.61% | F1 Score: 0.9061 | Time: 8.6s
+2025-12-25 19:25:32,300 - INFO - Epoch 97/150 | Train Loss: 0.1248 | Train Acc: 95.63% | Test Loss: 0.3109 | Test Acc: 90.04% | F1 Score: 0.9006 | Time: 8.6s
+2025-12-25 19:25:41,115 - INFO - 保存最佳模型，准确率: 91.11%
+2025-12-25 19:25:41,116 - INFO - Epoch 98/150 | Train Loss: 0.1203 | Train Acc: 95.97% | Test Loss: 0.2924 | Test Acc: 91.11% | F1 Score: 0.9112 | Time: 8.8s
+2025-12-25 19:25:49,999 - INFO - 保存最佳模型，准确率: 91.65%
+2025-12-25 19:25:49,999 - INFO - Epoch 99/150 | Train Loss: 0.1124 | Train Acc: 96.19% | Test Loss: 0.2761 | Test Acc: 91.65% | F1 Score: 0.9165 | Time: 8.9s
+2025-12-25 19:25:58,798 - INFO - Epoch 100/150 | Train Loss: 0.1120 | Train Acc: 96.20% | Test Loss: 0.3079 | Test Acc: 90.49% | F1 Score: 0.9053 | Time: 8.8s
+2025-12-25 19:26:07,373 - INFO - Epoch 101/150 | Train Loss: 0.1059 | Train Acc: 96.39% | Test Loss: 0.2668 | Test Acc: 91.64% | F1 Score: 0.9156 | Time: 8.6s
+2025-12-25 19:26:16,127 - INFO - 保存最佳模型，准确率: 92.44%
+2025-12-25 19:26:16,127 - INFO - Epoch 102/150 | Train Loss: 0.0975 | Train Acc: 96.77% | Test Loss: 0.2419 | Test Acc: 92.44% | F1 Score: 0.9246 | Time: 8.8s
+2025-12-25 19:26:24,956 - INFO - Epoch 103/150 | Train Loss: 0.0948 | Train Acc: 96.80% | Test Loss: 0.3411 | Test Acc: 89.59% | F1 Score: 0.8985 | Time: 8.8s
+2025-12-25 19:26:33,707 - INFO - Epoch 104/150 | Train Loss: 0.0947 | Train Acc: 96.80% | Test Loss: 0.2681 | Test Acc: 91.84% | F1 Score: 0.9176 | Time: 8.8s
+2025-12-25 19:26:42,400 - INFO - Epoch 105/150 | Train Loss: 0.0872 | Train Acc: 97.02% | Test Loss: 0.2729 | Test Acc: 91.98% | F1 Score: 0.9195 | Time: 8.7s
+2025-12-25 19:26:50,952 - INFO - Epoch 106/150 | Train Loss: 0.0847 | Train Acc: 97.16% | Test Loss: 0.2687 | Test Acc: 91.69% | F1 Score: 0.9171 | Time: 8.6s
+2025-12-25 19:26:59,604 - INFO - Epoch 107/150 | Train Loss: 0.0826 | Train Acc: 97.24% | Test Loss: 0.2934 | Test Acc: 91.32% | F1 Score: 0.9132 | Time: 8.7s
+2025-12-25 19:27:08,123 - INFO - Epoch 108/150 | Train Loss: 0.0784 | Train Acc: 97.32% | Test Loss: 0.2992 | Test Acc: 91.02% | F1 Score: 0.9106 | Time: 8.5s
+2025-12-25 19:27:16,870 - INFO - Epoch 109/150 | Train Loss: 0.0739 | Train Acc: 97.45% | Test Loss: 0.3492 | Test Acc: 90.03% | F1 Score: 0.9025 | Time: 8.7s
+2025-12-25 19:27:25,450 - INFO - Epoch 110/150 | Train Loss: 0.0712 | Train Acc: 97.62% | Test Loss: 0.2678 | Test Acc: 92.27% | F1 Score: 0.9233 | Time: 8.6s
+2025-12-25 19:27:34,678 - INFO - 保存最佳模型，准确率: 92.74%
+2025-12-25 19:27:34,678 - INFO - Epoch 111/150 | Train Loss: 0.0606 | Train Acc: 97.97% | Test Loss: 0.2482 | Test Acc: 92.74% | F1 Score: 0.9273 | Time: 9.2s
+2025-12-25 19:27:43,619 - INFO - Epoch 112/150 | Train Loss: 0.0608 | Train Acc: 97.90% | Test Loss: 0.2646 | Test Acc: 92.44% | F1 Score: 0.9240 | Time: 8.9s
+2025-12-25 19:27:52,319 - INFO - Epoch 113/150 | Train Loss: 0.0552 | Train Acc: 98.15% | Test Loss: 0.2539 | Test Acc: 92.68% | F1 Score: 0.9266 | Time: 8.7s
+2025-12-25 19:28:00,972 - INFO - 保存最佳模型，准确率: 92.89%
+2025-12-25 19:28:00,972 - INFO - Epoch 114/150 | Train Loss: 0.0535 | Train Acc: 98.23% | Test Loss: 0.2392 | Test Acc: 92.89% | F1 Score: 0.9287 | Time: 8.7s
+2025-12-25 19:28:10,001 - INFO - Epoch 115/150 | Train Loss: 0.0504 | Train Acc: 98.29% | Test Loss: 0.2444 | Test Acc: 92.80% | F1 Score: 0.9281 | Time: 9.0s
+2025-12-25 19:28:18,747 - INFO - 保存最佳模型，准确率: 93.66%
+2025-12-25 19:28:18,748 - INFO - Epoch 116/150 | Train Loss: 0.0423 | Train Acc: 98.63% | Test Loss: 0.2239 | Test Acc: 93.66% | F1 Score: 0.9368 | Time: 8.7s
+2025-12-25 19:28:27,707 - INFO - Epoch 117/150 | Train Loss: 0.0399 | Train Acc: 98.65% | Test Loss: 0.2288 | Test Acc: 93.48% | F1 Score: 0.9347 | Time: 9.0s
+2025-12-25 19:28:36,423 - INFO - Epoch 118/150 | Train Loss: 0.0355 | Train Acc: 98.80% | Test Loss: 0.2259 | Test Acc: 93.64% | F1 Score: 0.9363 | Time: 8.7s
+2025-12-25 19:28:45,033 - INFO - 保存最佳模型，准确率: 93.79%
+2025-12-25 19:28:45,034 - INFO - Epoch 119/150 | Train Loss: 0.0336 | Train Acc: 98.95% | Test Loss: 0.2183 | Test Acc: 93.79% | F1 Score: 0.9379 | Time: 8.6s
+2025-12-25 19:28:53,745 - INFO - 保存最佳模型，准确率: 93.95%
+2025-12-25 19:28:53,789 - INFO - Epoch 120/150 | Train Loss: 0.0252 | Train Acc: 99.23% | Test Loss: 0.2131 | Test Acc: 93.95% | F1 Score: 0.9393 | Time: 8.8s
+2025-12-25 19:29:02,387 - INFO - Epoch 121/150 | Train Loss: 0.0268 | Train Acc: 99.18% | Test Loss: 0.2187 | Test Acc: 93.68% | F1 Score: 0.9367 | Time: 8.6s
+2025-12-25 19:29:11,068 - INFO - 保存最佳模型，准确率: 94.28%
+2025-12-25 19:29:11,069 - INFO - Epoch 122/150 | Train Loss: 0.0194 | Train Acc: 99.41% | Test Loss: 0.2075 | Test Acc: 94.28% | F1 Score: 0.9429 | Time: 8.7s
+2025-12-25 19:29:19,240 - INFO - 保存最佳模型，准确率: 94.29%
+2025-12-25 19:29:19,240 - INFO - Epoch 123/150 | Train Loss: 0.0196 | Train Acc: 99.37% | Test Loss: 0.2094 | Test Acc: 94.29% | F1 Score: 0.9430 | Time: 8.2s
+2025-12-25 19:29:28,014 - INFO - 保存最佳模型，准确率: 94.63%
+2025-12-25 19:29:28,014 - INFO - Epoch 124/150 | Train Loss: 0.0165 | Train Acc: 99.53% | Test Loss: 0.2036 | Test Acc: 94.63% | F1 Score: 0.9465 | Time: 8.8s
+2025-12-25 19:29:36,874 - INFO - 保存最佳模型，准确率: 94.70%
+2025-12-25 19:29:36,874 - INFO - Epoch 125/150 | Train Loss: 0.0154 | Train Acc: 99.55% | Test Loss: 0.1899 | Test Acc: 94.70% | F1 Score: 0.9469 | Time: 8.9s
+2025-12-25 19:29:45,867 - INFO - 保存最佳模型，准确率: 94.75%
+2025-12-25 19:29:45,867 - INFO - Epoch 126/150 | Train Loss: 0.0114 | Train Acc: 99.71% | Test Loss: 0.1947 | Test Acc: 94.75% | F1 Score: 0.9475 | Time: 9.0s
+2025-12-25 19:29:55,757 - INFO - 保存最佳模型，准确率: 94.84%
+2025-12-25 19:29:55,757 - INFO - Epoch 127/150 | Train Loss: 0.0106 | Train Acc: 99.75% | Test Loss: 0.1868 | Test Acc: 94.84% | F1 Score: 0.9483 | Time: 9.9s
+2025-12-25 19:30:04,990 - INFO - 保存最佳模型，准确率: 95.10%
+2025-12-25 19:30:04,991 - INFO - Epoch 128/150 | Train Loss: 0.0085 | Train Acc: 99.79% | Test Loss: 0.1867 | Test Acc: 95.10% | F1 Score: 0.9509 | Time: 9.2s
+2025-12-25 19:30:14,020 - INFO - Epoch 129/150 | Train Loss: 0.0080 | Train Acc: 99.81% | Test Loss: 0.1977 | Test Acc: 94.81% | F1 Score: 0.9480 | Time: 9.0s
+2025-12-25 19:30:21,990 - INFO - Epoch 130/150 | Train Loss: 0.0060 | Train Acc: 99.88% | Test Loss: 0.1844 | Test Acc: 95.10% | F1 Score: 0.9510 | Time: 8.0s
+2025-12-25 19:30:30,952 - INFO - 保存最佳模型，准确率: 95.14%
+2025-12-25 19:30:30,952 - INFO - Epoch 131/150 | Train Loss: 0.0050 | Train Acc: 99.93% | Test Loss: 0.1828 | Test Acc: 95.14% | F1 Score: 0.9514 | Time: 9.0s
+2025-12-25 19:30:39,459 - INFO - 保存最佳模型，准确率: 95.21%
+2025-12-25 19:30:39,459 - INFO - Epoch 132/150 | Train Loss: 0.0050 | Train Acc: 99.92% | Test Loss: 0.1789 | Test Acc: 95.21% | F1 Score: 0.9521 | Time: 8.5s
+2025-12-25 19:30:48,193 - INFO - 保存最佳模型，准确率: 95.27%
+2025-12-25 19:30:48,193 - INFO - Epoch 133/150 | Train Loss: 0.0048 | Train Acc: 99.91% | Test Loss: 0.1768 | Test Acc: 95.27% | F1 Score: 0.9527 | Time: 8.7s
+2025-12-25 19:30:57,331 - INFO - 保存最佳模型，准确率: 95.38%
+2025-12-25 19:30:57,331 - INFO - Epoch 134/150 | Train Loss: 0.0042 | Train Acc: 99.94% | Test Loss: 0.1749 | Test Acc: 95.38% | F1 Score: 0.9538 | Time: 9.1s
+2025-12-25 19:31:05,899 - INFO - Epoch 135/150 | Train Loss: 0.0039 | Train Acc: 99.94% | Test Loss: 0.1745 | Test Acc: 95.34% | F1 Score: 0.9534 | Time: 8.6s
+2025-12-25 19:31:14,679 - INFO - 保存最佳模型，准确率: 95.44%
+2025-12-25 19:31:14,679 - INFO - Epoch 136/150 | Train Loss: 0.0036 | Train Acc: 99.95% | Test Loss: 0.1752 | Test Acc: 95.44% | F1 Score: 0.9544 | Time: 8.8s
+2025-12-25 19:31:23,669 - INFO - Epoch 137/150 | Train Loss: 0.0032 | Train Acc: 99.97% | Test Loss: 0.1728 | Test Acc: 95.34% | F1 Score: 0.9533 | Time: 9.0s
+2025-12-25 19:31:32,485 - INFO - Epoch 138/150 | Train Loss: 0.0033 | Train Acc: 99.96% | Test Loss: 0.1701 | Test Acc: 95.42% | F1 Score: 0.9541 | Time: 8.8s
+2025-12-25 19:31:41,164 - INFO - 保存最佳模型，准确率: 95.47%
+2025-12-25 19:31:41,165 - INFO - Epoch 139/150 | Train Loss: 0.0029 | Train Acc: 99.97% | Test Loss: 0.1718 | Test Acc: 95.47% | F1 Score: 0.9546 | Time: 8.7s
+2025-12-25 19:31:49,979 - INFO - 保存最佳模型，准确率: 95.54%
+2025-12-25 19:31:50,022 - INFO - Epoch 140/150 | Train Loss: 0.0028 | Train Acc: 99.97% | Test Loss: 0.1683 | Test Acc: 95.54% | F1 Score: 0.9554 | Time: 8.9s
+2025-12-25 19:31:58,742 - INFO - Epoch 141/150 | Train Loss: 0.0026 | Train Acc: 99.97% | Test Loss: 0.1710 | Test Acc: 95.49% | F1 Score: 0.9549 | Time: 8.7s
+2025-12-25 19:32:08,274 - INFO - 保存最佳模型，准确率: 95.55%
+2025-12-25 19:32:08,274 - INFO - Epoch 142/150 | Train Loss: 0.0031 | Train Acc: 99.96% | Test Loss: 0.1680 | Test Acc: 95.55% | F1 Score: 0.9555 | Time: 9.5s
+2025-12-25 19:32:17,326 - INFO - Epoch 143/150 | Train Loss: 0.0027 | Train Acc: 99.97% | Test Loss: 0.1684 | Test Acc: 95.52% | F1 Score: 0.9551 | Time: 9.1s
+2025-12-25 19:32:26,140 - INFO - 保存最佳模型，准确率: 95.58%
+2025-12-25 19:32:26,140 - INFO - Epoch 144/150 | Train Loss: 0.0025 | Train Acc: 99.98% | Test Loss: 0.1685 | Test Acc: 95.58% | F1 Score: 0.9557 | Time: 8.8s
+2025-12-25 19:32:34,583 - INFO - Epoch 145/150 | Train Loss: 0.0024 | Train Acc: 99.98% | Test Loss: 0.1672 | Test Acc: 95.57% | F1 Score: 0.9556 | Time: 8.4s
+2025-12-25 19:32:43,578 - INFO - 保存最佳模型，准确率: 95.65%
+2025-12-25 19:32:43,578 - INFO - Epoch 146/150 | Train Loss: 0.0028 | Train Acc: 99.98% | Test Loss: 0.1668 | Test Acc: 95.65% | F1 Score: 0.9565 | Time: 9.0s
+2025-12-25 19:32:52,277 - INFO - Epoch 147/150 | Train Loss: 0.0027 | Train Acc: 99.97% | Test Loss: 0.1676 | Test Acc: 95.60% | F1 Score: 0.9559 | Time: 8.7s
+2025-12-25 19:33:01,250 - INFO - Epoch 148/150 | Train Loss: 0.0026 | Train Acc: 99.97% | Test Loss: 0.1667 | Test Acc: 95.61% | F1 Score: 0.9561 | Time: 9.0s
+2025-12-25 19:33:09,957 - INFO - Epoch 149/150 | Train Loss: 0.0024 | Train Acc: 99.98% | Test Loss: 0.1662 | Test Acc: 95.65% | F1 Score: 0.9565 | Time: 8.7s
+2025-12-25 19:33:18,538 - INFO - Epoch 150/150 | Train Loss: 0.0026 | Train Acc: 99.98% | Test Loss: 0.1682 | Test Acc: 95.58% | F1 Score: 0.9558 | Time: 8.6s
+2025-12-25 19:33:18,538 - INFO - 训练完成！最佳测试准确率: 95.65%
+2025-12-25 19:33:19,005 - INFO - 训练曲线已保存到: ./results/resnet18_cbam/plots/training_curves.png
+2025-12-25 19:33:20,346 - INFO - 最终模型评估结果:
+2025-12-25 19:33:20,346 - INFO -   accuracy: 0.9565
+2025-12-25 19:33:20,346 - INFO -   f1_macro: 0.9565
+2025-12-25 19:33:20,346 - INFO -   f1_weighted: 0.9565
+2025-12-25 19:33:20,346 - INFO -   precision_macro: 0.9566
+2025-12-25 19:33:20,346 - INFO -   recall_macro: 0.9565
+2025-12-25 19:33:20,346 - INFO -   per_class_accuracy: [0.965, 0.985, 0.95, 0.886, 0.963, 0.933, 0.969, 0.974, 0.973, 0.967]
+2025-12-25 19:33:20,346 - INFO -   mean_per_class_accuracy: 0.9565

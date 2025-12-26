@@ -1,0 +1,41 @@
+# config_resnet18_cbam.yaml - ResNet18+CBAM配置
+experiment:
+  name: "ResNet18_CBAM_CIFAR10"
+  device: "cuda"  # 或 "auto" 自动选择GPU
+  seed: 42
+
+model:
+  name: "ResNet18_CBAM"
+  num_classes: 10
+  use_cbam: true
+  cbam_reduction: 16
+
+data:
+  batch_size: 128
+  num_workers: 4
+  data_dir: "./data"  # 会自动指向数据盘的软链接
+  pin_memory: true
+  train_transform:
+    random_crop: true
+    random_horizontal_flip: true
+    color_jitter: true
+    normalize: true
+  test_transform:
+    normalize: true
+
+training:
+  epochs: 150
+  optimizer: "SGD"
+  learning_rate: 0.1
+  momentum: 0.9
+  nesterov: true
+  weight_decay: 0.0005
+  scheduler: "CosineAnnealingLR"
+  t_max: 150  # 整个训练周期
+  eta_min: 0.000001
+  early_stopping: false
+  patience: 30
+  save_frequency: 20
+
+output:
+  save_dir: "./results/resnet18_cbam"  # 会自动指向数据盘

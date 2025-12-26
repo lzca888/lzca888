@@ -1,0 +1,42 @@
+# config_gpu_improved.yaml
+experiment:
+  name: "ResNet50_CBAM_Improved"
+  device: "cuda"
+  seed: 42
+
+model:
+  name: "ResNet50_CBAM"
+  num_classes: 10
+  use_cbam: true
+  cbam_reduction: 16
+
+data:
+  batch_size: 128
+  num_workers: 8
+  data_dir: "./data"
+  train_transform:
+    random_crop: true
+    random_horizontal_flip: true
+    color_jitter: true
+    normalize: true
+  test_transform:
+    normalize: true
+
+training:
+  epochs: 200
+  optimizer: "SGD"
+  learning_rate: 0.1
+  momentum: 0.9
+  nesterov: true
+  weight_decay: 0.0005
+  scheduler: "CosineAnnealingLR"
+  t_max: 195
+  eta_min: 0.000001
+  warmup_epochs: 5  # 添加warmup
+  warmup_lr: 0.01   # warmup起始学习率
+  early_stopping: true
+  patience: 50      # 增加耐心值
+  save_frequency: 10
+
+output:
+  save_dir: "./results_improved"

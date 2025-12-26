@@ -1,0 +1,42 @@
+# config_resnet18_cbam_cifar100.yaml
+experiment:
+  name: "ResNet18_CBAM_CIFAR100"
+  device: "cuda"
+  seed: 42
+
+model:
+  name: "ResNet18_CBAM"
+  num_classes: 100  # 改为100个类别
+  use_cbam: true
+  cbam_reduction: 16
+
+data:
+  name: "cifar100"  # 指定使用CIFAR-100
+  batch_size: 128
+  num_workers: 4
+  data_dir: "./data"
+  pin_memory: true
+  train_transform:
+    random_crop: true
+    random_horizontal_flip: true
+    color_jitter: true
+    normalize: true
+  test_transform:
+    normalize: true
+
+training:
+  epochs: 200  # CIFAR-100需要更多epoch
+  optimizer: "SGD"
+  learning_rate: 0.1
+  momentum: 0.9
+  nesterov: true
+  weight_decay: 0.0005
+  scheduler: "CosineAnnealingLR"
+  t_max: 200
+  eta_min: 0.000001
+  early_stopping: false
+  patience: 40  # 更大的耐心值
+  save_frequency: 20
+
+output:
+  save_dir: "./results/resnet18_cifar100_cbam"

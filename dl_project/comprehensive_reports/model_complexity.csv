@@ -1,0 +1,3 @@
+Model,Parameters (M)
+ResNet18_NoCBAM,11.2
+ResNet18_CBAM,11.3

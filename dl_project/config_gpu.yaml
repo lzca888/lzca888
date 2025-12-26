@@ -1,0 +1,41 @@
+# config_gpu_fixed.yaml - 修复版配置
+experiment:
+  name: "ResNet50_CBAM_GPU_Optimized"
+  device: "cuda"
+  seed: 42
+
+model:
+  name: "ResNet50_CBAM"  # 修正拼写
+  num_classes: 10
+  use_cbam: true
+  cbam_reduction: 16
+
+data:
+  batch_size: 128
+  num_workers: 8
+  data_dir: "./data"
+  pin_memory: true
+  train_transform:
+    random_crop: true
+    random_horizontal_flip: true
+    color_jitter: true
+    normalize: true
+  test_transform:
+    normalize: true
+
+# config_gpu.yaml
+training:
+  epochs: 200
+  optimizer: "SGD"
+  learning_rate: 0.1
+  momentum: 0.9
+  weight_decay: 0.0005
+  scheduler: "MultiStepLR"  # 改为多步下降
+  milestones: [60, 120, 160]
+  gamma: 0.1
+  early_stopping: false
+  patience: 30  # 增加耐心值
+  save_frequency: 20
+
+output:
+  save_dir: "./results"
